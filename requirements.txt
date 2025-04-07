@@ -1,0 +1,9 @@
+openai
+lancedb
+docling
+pyarrow
+tiktoken
+python-dotenv
+tenacity
+ipywidgets
+ipython
